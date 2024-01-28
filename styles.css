@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: lightpink;
+    background-color: #0d0d0d;
+    padding: 20px 10px;
+    border-radius: 25px;
+}
+
+.title {
+    text-align: left;
+    background-color: lightblue;
+    text-decoration: none;
+    padding: 20px 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+br {
+    padding: 20px;
+}
